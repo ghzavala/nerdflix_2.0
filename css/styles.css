@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+#logo {
+        height: 25px;
+}
+
+#header-img {
+    color: white;
+    height: 400px;
+    width: 100%;
+    background: linear-gradient(rgba(0, 0, 0, 0.90), rgba(0, 0, 0, 0.5)),
+    url('../img/movie-collage-900x506.png');
+    -webkit-background-size: cover;
+    -moz-background-size:  cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 12%;
+    padding-bottom: 25%;
+    border-bottom: 8px solid #222;
+}
+
+.rounded-img {
+    border-radius: 50%;
+}
+
+.section {
+    border-bottom: 8px solid #222;
+}
+
+.accordeon-dark {
+    background-color: black;
+}
+
+.btn-white-accordeon {
+    text-decoration: none;
+    color: white;
+}
+
+.card-body {
+    color: black;
+}

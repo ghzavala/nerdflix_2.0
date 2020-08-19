@@ -1,0 +1,170 @@
+[
+	{
+		"idPelicula" : "1",
+		"Titulo" : "Iron Man",
+		"Descripcion" : "Iron Man (titulada Iron Man: el hombre de hierro en Espa\u00f1a e Hispanoam\u00e9rica ) es una pel\u00edcula de superh\u00e9roes . Es la primera entrega del Universo cinematogr\u00e1fico de Marvel. La cinta fue dirigida por Jon Favreau, con un guion de Stan Lee, Hawk Ostby, Art Marcum y Matt Holloway. Es protagonizada por Robert Downey Jr, Terrence Howard, Jeff Bridges, Shaun Toub y Gwyneth Paltrow. La trama gira en torno a Tony Stark, un empresario e ingeniero, que construye un exoesqueleto motorizado y se convierte en Iron Man, un superh\u00e9roe tecnol\u00f3gicamente avanzado.",
+		"Estreno" : "2008",
+		"Poster" : "https:\/\/image.ibb.co\/cvofbL\/01.jpg",
+		"Trailer" : "https:\/\/www.youtube.com\/embed\/8hYlB38asDY"
+	},
+	{
+		"idPelicula" : "2",
+		"Titulo" : "The Incredible Hulk",
+		"Descripcion" : "The Incredible Hulk (titulada El incre\u00edble Hulk en Espa\u00f1a y Hulk: el hombre incre\u00edble en Hispanoam\u00e9rica) es una pel\u00edcula de superh\u00e9roes estadounidense de 2008 basada en el personaje Hulk, de Marvel Comics, producida por Marvel Studios y distribuida por Universal Studios. Es la segunda entrega del universo cinematogr\u00e1fico de Marvel. La cinta fue dirigida por Louis Leterrier, con un guion de Zak Penn. Es protagonizada por Edward Norton, Liv Tyler, Tim Roth, Tim Blake Nelson, Ty Burrell y William Hurt.",
+		"Estreno" : "2008",
+		"Poster" : "https:\/\/image.ibb.co\/d6YDwL\/02.jpg",
+		"Trailer" : "https:\/\/www.youtube.com\/embed\/xbqNb2PFKKA"
+	},
+	{
+		"idPelicula" : "3",
+		"Titulo" : "Iron Man 2",
+		"Descripcion" : "Iron Man 2 es una pel\u00edcula de superh\u00e9roes estadounidense de 2010 basada en el personaje hom\u00f3nimo de Marvel Comics, producida por Marvel Studios y distribuida por Paramount Pictures.a Es la tercera entrega del universo cinematogr\u00e1fico de Marvel. La cinta fue dirigida por Jon Favreau, con un gui\u00f3n de Justin Theroux. Es protagonizada por Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Scarlett Johansson, Sam Rockwell, Paul Bettany, Mickey Rourke y Samuel L. Jackson.",
+		"Estreno" : "2010",
+		"Poster" : "https:\/\/image.ibb.co\/ghemGL\/03.jpg",
+		"Trailer" : "https:\/\/www.youtube.com\/embed\/wKtcmiifycU"
+	},
+	{
+		"idPelicula" : "4",
+		"Titulo" : "Thor",
+		"Descripcion" : "Thor es una pel\u00edcula de superh\u00e9roes estadounidense de 2011 basada en el personaje hom\u00f3nimo de Marvel Comics, producida por Marvel Studios y distribuida por Paramount Pictures.b Es la cuarta entrega del universo cinematogr\u00e1fico de Marvel. La cinta fue dirigida por Kenneth Branagh, con un gui\u00f3n de Ashley Edward Miller, Zack Stentz y Don Payne. Es protagonizada por Chris Hemsworth, Tom Hiddleston, Natalie Portman, Stellan Skarsg\u00e5rd, Idris Elba, Jaimie Alexander, Colm Feore, Rene Russo, Anthony Hopkins.",
+		"Estreno" : "2011",
+		"Poster" : "https:\/\/image.ibb.co\/ntZaAf\/04.jpg",
+		"Trailer" : "https:\/\/www.youtube.com\/embed\/O_dil1dHu2I"
+	},
+	{
+		"idPelicula" : "5",
+		"Titulo" : "Captain America: The First Avenger",
+		"Descripcion" : "Capit\u00e1n Am\u00e9rica: el primer vengador (t\u00edtulo original en ingl\u00e9s: Captain America: The First Avenger) es una pel\u00edcula de superh\u00e9roes estadounidense de 2011 basada en el personaje hom\u00f3nimo de Marvel Comics, producida por Marvel Studios y distribuida por Paramount Pictures.a Es la quinta entrega del universo cinematogr\u00e1fico de Marvel. La cinta fue dirigida por Joe Johnston, con un guion de Christopher Markus y Stephen McFeely, y protagonizada por Chris Evans, Hugo Weaving, Hayley Atwell, Sebastian Stan, Dominic Cooper, Neal McDonough, Derek Luke, Kenneth Choi, Stanley Tucci, y Tommy Lee Jones.",
+		"Estreno" : "2011",
+		"Poster" : "https:\/\/image.ibb.co\/iv82qf\/05.jpg",
+		"Trailer" : "https:\/\/www.youtube.com\/embed\/JerVrbLldXw"
+	},
+	{
+		"idPelicula" : "6",
+		"Titulo" : "The Avengers",
+		"Descripcion" : "The Avengers (titulada The Avengers: Los Vengadores en Hispanoam\u00e9rica y Marvel Los Vengadores en Espa\u00f1a) es una pel\u00edcula estadounidense de superh\u00e9roes de 2012 escrita y dirigida por Joss Whedon. Fue producida por Marvel Studios y distribuida por Walt Disney Pictures, y basada en el c\u00f3mic hom\u00f3nimo de Marvel Comics. Es parte del Universo cinematogr\u00e1fico de Marvel, que enlaza varias pel\u00edculas de superh\u00e9roes de Marvel como Iron Man (2008), El incre\u00edble Hulk (2008), Iron Man 2 (2010), Thor (2011) y Capit\u00e1n Am\u00e9rica: el primer vengador (2011). La pel\u00edcula cuenta con un reparto coral, que incluye a Robert Downey Jr., Chris Hemsworth, Tom Hiddleston, Mark Ruffalo, Chris Evans, Scarlett Johansson, Jeremy Renner, Clark Gregg, Cobie Smulders, y Samuel L. Jackson.",
+		"Estreno" : "2012",
+		"Poster" : "https:\/\/image.ibb.co\/eTQFAf\/06.jpg",
+		"Trailer" : "https:\/\/www.youtube.com\/embed\/eOrNdBpGMv8"
+	},
+	{
+		"idPelicula" : "7",
+		"Titulo" : "Iron Man 3",
+		"Descripcion" : "Iron Man 3 es una pel\u00edcula estadounidense sobre el superh\u00e9roe Iron Man, de Marvel Comics, producida por Marvel Studios y distribuida por Walt Disney Pictures. Es la secuela de Iron Man (2008) y Iron Man 2 (2010), y es la primera pel\u00edcula con la que se dio inicio a la segunda fase del universo cinematogr\u00e1fico de Marvel, siendo el primer gran estreno de la franquicia despu\u00e9s de The Avengers (2012) que fue la sexta y \u00faltima pel\u00edcula de la primera fase del ya mencionado universo cinematogr\u00e1fico.",
+		"Estreno" : "2013",
+		"Poster" : "https:\/\/image.ibb.co\/jOARGL\/07.jpg",
+		"Trailer" : "https:\/\/www.youtube.com\/embed\/6Cl8PmVm3YE"
+	},
+	{
+		"idPelicula" : "8",
+		"Titulo" : "Thor: The Dark World",
+		"Descripcion" : "Thor: The Dark World (titulada Thor: Un Mundo Oscuro en Hispanoam\u00e9rica y Thor: El Mundo Oscuro en Espa\u00f1a) es una pel\u00edcula de superh\u00e9roes estadounidense basada en el personaje hom\u00f3nimo de Marvel Comics: Thor, producida por Marvel Studios y distribuida por Walt Disney Studios Motion Pictures. Se trata de la secuela del largometraje Thor (2011) y la octava entrega en el Universo Cinematogr\u00e1fico de Marvel. Dirigida por Alan Taylor que dio vida al gui\u00f3n de Christopher Yost, Christopher Markus y Stephen McFeely y producida por Kevin Feige. Protagonizada por Chris Hemsworth, Tom Hiddleston, Natalie Portman, Idris Elba, Stellan Skarsg\u00e5rd, Christopher Eccleston, Jaimie Alexander, Adewale Akinnuoye-Agbaje, Ray Stevenson, Zachary Levi, Kat Dennings, Rene Russo, y Anthony Hopkins.",
+		"Estreno" : "2013",
+		"Poster" : "https:\/\/image.ibb.co\/dbm0bL\/08.jpg",
+		"Trailer" : "https:\/\/www.youtube.com\/embed\/npvJ9FTgZbM"
+	},
+	{
+		"idPelicula" : "9",
+		"Titulo" : "Captain America: The Winter Soldier",
+		"Descripcion" : "Captain America: The Winter Soldier (titulada Capit\u00e1n Am\u00e9rica: el Soldado de Invierno en Espa\u00f1a y Capit\u00e1n Am\u00e9rica y el Soldado del Invierno en Hispanoam\u00e9rica)2 es una pel\u00edcula de superh\u00e9roes y Acci\u00f3n del universo cinematogr\u00e1fico de Marvel estrenada el 4 de abril de 2014. Es una secuela directa de The Avengers y tambi\u00e9n enlaza con lo sucedido en Capit\u00e1n Am\u00e9rica: el primer vengador. La pel\u00edcula est\u00e1 dirigida por los hermanos Anthony y Joe Russo y protagonizada por Chris Evans, Samuel L. Jackson, Scarlett Johansson, Sebastian Stan, Anthony Mackie y Robert Redford y nominada al Oscar por mejores efectos especiales.",
+		"Estreno" : "2014",
+		"Poster" : "https:\/\/image.ibb.co\/itumGL\/09.jpg",
+		"Trailer" : "https:\/\/www.youtube.com\/embed\/82RKQPgeYRs"
+	},
+	{
+		"idPelicula" : "10",
+		"Titulo" : "Guardians of the Galaxy",
+		"Descripcion" : "Guardianes de la Galaxia (t\u00edtulo original en ingl\u00e9s, Guardians of the Galaxy) es una pel\u00edcula de superh\u00e9roes realizada por Estudios Marvel y es la d\u00e9cima pel\u00edcula del universo cinematogr\u00e1fico de Marvel. Dirigida por James Gunn, quien tambi\u00e9n escribe el gui\u00f3n junto con Nicole Perlman y cuenta con un reparto coral, que incluye a Chris Pratt, Zoe Saldana, Bradley Cooper, Dave Bautista, Vin Diesel, Michael Rooker, Karen Gillan, Djimon Hounsou, John C. Reilly, Glenn Close, Lee Pace, Benicio del Toro.",
+		"Estreno" : "2014",
+		"Poster" : "https:\/\/image.ibb.co\/czjmGL\/10.jpg",
+		"Trailer" : "https:\/\/www.youtube.com\/embed\/2XltzyLcu0g"
+	},
+	{
+		"idPelicula" : "11",
+		"Titulo" : "Avengers: Age of Ultron",
+		"Descripcion" : "Avengers: Age of Ultron (titulada Avengers: Era de Ultr\u00f3n en Hispanoam\u00e9rica y Vengadores: La era de Ultr\u00f3n en Espa\u00f1a) es una pel\u00edcula de superh\u00e9roes, secuela de The Avengers, dirigida por Joss Whedon y producida por Kevin Feige. Forma parte de la segunda fase del universo cinematogr\u00e1fico de Marvel, junto con Iron Man 3, Thor: The Dark World, Captain America: The Winter Soldier, Guardianes de la Galaxia y Ant Man: El Hombre Hormiga. El elenco es el mismo de la anterior con la inclusi\u00f3n de la Bruja Escarlata, Quicksilver2 y Visi\u00f3n.",
+		"Estreno" : "2015",
+		"Poster" : "https:\/\/image.ibb.co\/e3xTVf\/11.jpg",
+		"Trailer" : "https:\/\/www.youtube.com\/embed\/P5iIPfNzj2o"
+	},
+	{
+		"idPelicula" : "12",
+		"Titulo" : "Ant-Man",
+		"Descripcion" : "Ant-Man (titulada Ant-Man: el hombre hormiga en Hispanoam\u00e9rica) es una pel\u00edcula de superh\u00e9roes estadounidense estrenada el 17 de julio de 2015.3 Est\u00e1 dirigida por Peyton Reed4 y se basa en el personaje hom\u00f3nimo perteneciente a Marvel Comics. Es la decimosegunda pel\u00edcula de Marvel Studios y tambi\u00e9n la pel\u00edcula que cierra la segunda fase del Universo cinematogr\u00e1fico de Marvel.",
+		"Estreno" : "2015",
+		"Poster" : "https:\/\/image.ibb.co\/derBi0\/12.jpg",
+		"Trailer" : "https:\/\/www.youtube.com\/embed\/QfOZWGLT1JM"
+	},
+	{
+		"idPelicula" : "13",
+		"Titulo" : "Capit\u00e1n Am\u00e9rica: Civil War",
+		"Descripcion" : "Capit\u00e1n Am\u00e9rica: Civil War (originalmente en ingl\u00e9s: Captain America: Civil War) es una pel\u00edcula de superh\u00e9roes estadounidense, estrenada el 27 de abril de 2016. Es una secuela de Captain America: The Winter Soldier, siendo la que completa la Trilog\u00eda de Capit\u00e1n Am\u00e9rica, y es la pel\u00edcula que inicia la Fase 3 del Universo cinematogr\u00e1fico de Marvel. Est\u00e1 dirigida por los hermanos Anthony y Joe Russo, y cuenta con un reparto coral con Chris Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan, Anthony Mackie, Emily VanCamp, Don Cheadle, Jeremy Renner, Chadwick Boseman, Paul Bettany, Elizabeth Olsen, Paul Rudd, Frank Grillo, Tom Holland, William Hurt, Martin Freeman y Daniel Br\u00fchl.",
+		"Estreno" : "2016",
+		"Poster" : "https:\/\/image.ibb.co\/bNTri0\/13.jpg",
+		"Trailer" : "https:\/\/www.youtube.com\/embed\/FkTybqcX-Yo"
+	},
+	{
+		"idPelicula" : "14",
+		"Titulo" : "Doctor Strange",
+		"Descripcion" : "Doctor Strange (titulada Doctor Strange: Hechicero Supremo en Hispanoam\u00e9rica) es una pel\u00edcula estadounidense de superh\u00e9roes, basada en el personaje de Marvel Comics del mismo nombre, producida por Marvel Studios y distribuida por Walt Disney Studios Motion Pictures en 2016. Es la decimocuarta pel\u00edcula del Universo cinematogr\u00e1fico de Marvel (UCM). La pel\u00edcula es dirigida por Scott Derrickson, con un guion escrito por Derrickson, Jon Spaihts y C. Robert Cargill. Cuenta con los actores Benedict Cumberbatch, Mads Mikkelsen, Chiwetel Ejiofor, Rachel McAdams, Benjamin Bratt, Benedict Wong, y Tilda Swinton.",
+		"Estreno" : "2016",
+		"Poster" : "https:\/\/image.ibb.co\/kmdfbL\/14.jpg",
+		"Trailer" : "https:\/\/www.youtube.com\/embed\/HSzx-zryEgM"
+	},
+	{
+		"idPelicula" : "15",
+		"Titulo" : "Guardians of the Galaxy Vol. 2",
+		"Descripcion" : "Guardianes de la Galaxia Volumen 2 es una pel\u00edcula estadounidense de superh\u00e9roes basada en el equipo de superh\u00e9roes Guardianes de la Galaxia de Marvel Comics, producida por Marvel Studios y distribuida por Walt Disney Studios Motion Pictures. Es la secuela de la cinta de 2014 Guardianes de la Galaxia y la decimoquinta pel\u00edcula en el Universo cinematogr\u00e1fico de Marvel. La pel\u00edcula esta escrita y dirigida por James Gunn y con las actuaciones de Chris Pratt, Zoe Salda\u00f1a, Dave Bautista, Vin Diesel, Bradley Cooper, Michael Rooker, Karen Gillan y Kurt Russell.",
+		"Estreno" : "2017",
+		"Poster" : "https:\/\/image.ibb.co\/cB98Vf\/15.jpg",
+		"Trailer" : "https:\/\/www.youtube.com\/embed\/2cv2ueYnKjg"
+	},
+	{
+		"idPelicula" : "16",
+		"Titulo" : "Spider-Man: Homecoming",
+		"Descripcion" : "Spider-Man: Homecoming1 2 (El Hombre Ara\u00f1a: De regreso a casa en Hispanoam\u00e9rica3 ) es una pr\u00f3xima pel\u00edcula estadounidense de superh\u00e9roes, basada en el c\u00f3mic hom\u00f3nimo del personaje de Spider-Man, producida por Marvel Studios y Columbia Pictures, y distribuida por Sony Pictures Entertainment. Est\u00e1 destinada a ser el tercer reinicio de la franquicia de Spider-Man y la decimosexta pel\u00edcula del Universo cinematogr\u00e1fico de Marvel. La pel\u00edcula es dirigida por Jon Watts, con un guion de John Francis Daley & Jonathan M. Goldstein y Christopher Ford & Jon Watts, y est\u00e1 protagonizada por Tom Holland, Michael Keaton, Donald Glover, Zendaya, Tyne Daly, Tony Revolori, Jon Favreau, Marisa Tomei, Robert Downey Jr.",
+		"Estreno" : "2017",
+		"Poster" : "https:\/\/image.ibb.co\/bvmoVf\/16.jpg",
+		"Trailer" : "https:\/\/www.youtube.com\/embed\/n9DwoQ7HWvI"
+	},
+	{
+		"idPelicula" : "17",
+		"Titulo" : "Thor: Ragnarok",
+		"Descripcion" : "Thor: Ragnarok es una pel\u00edcula de superh\u00e9roes estadounidense basada en el personaje hom\u00f3nimo de Marvel Comics: Thor, producida por Marvel Studios y distribuida por Walt Disney Studios Motion Pictures. Se trata de la tercera parte de la trilog\u00eda de Thor, siendo la secuela del largometraje Thor: The Dark World (2013) y formando parte de la tercera fase dentro del Universo Cinematogr\u00e1fico de Marvel. Dirigida por Taika Waititi, dando vida al guion de Eric Pearson y producida por Kevin Feige. Est\u00e1 protagonizada por Chris Hemsworth, Tom Hiddleston, Cate Blanchett, Idris Elba, Jeff Goldblum, Tessa Thompson, Karl Urban, Mark Ruffalo, Benedict Cumberbatch y Anthony Hopkins.",
+		"Estreno" : "2017",
+		"Poster" : "https:\/\/image.ibb.co\/h6uLbL\/17.jpg",
+		"Trailer" : "https:\/\/www.youtube.com\/embed\/JBxQ_XYQJhc"
+	},
+	{
+		"idPelicula" : "18",
+		"Titulo" : "Black Panther",
+		"Descripcion" : "Black Panther (titulada Pantera Negra en Hispanoam\u00E9rica) es una pel\u00EDcula de superh\u00E9roes estadounidense de 2018 basada en el personaje de Marvel Comics Pantera Negra. Producida por Marvel Studios y distribuida por Walt Disney Studios, es la decimoctava pel\u00EDcula del Universo cinematogr\u00E1fico de Marvel (MCU). La pel\u00EDcula es dirigida por Ryan Coogler, que escribi\u00F3 el guion con Joe Robert Cole, y es protagonizada por Chadwick Boseman como T'Challa \/ Black Panther, junto con Michael B. Jordan, Lupita Nyong'o, Danai Gurira, Martin Freeman, Daniel Kaluuya, Letitia Wright, Winston Duke, Angela Bassett, Forest Whitaker y Andy Serkis.",
+		"Estreno" : "2018",
+		"Poster" : "https:\/\/i.ibb.co\/jg3QD8g\/18.jpg",
+		"Trailer" : "https:\/\/www.youtube.com\/embed\/xjDjIWPwcPU"
+	},
+	{
+		"idPelicula" : "19",
+		"Titulo" : "Avengers: Infinity War",
+		"Descripcion" : "Avengers: Infinity War (titulada Vengadores: Infinity War en Espa\u00F1a) es una pel\u00EDcula estadounidense de superh\u00E9roes de 2018, basada en el equipo de superh\u00E9roes de Marvel Comics los Vengadores, producida por Marvel Studios y distribuida por Walt Disney Studios Motion Pictures. Es la secuela de The Avengers (2012) y Avengers: Age of Ultron (2015), ubic\u00E1ndose como la d\u00E9cimo novena pel\u00EDcula del Universo cinematogr\u00E1fico de Marvel. Dirigida por los hermanos Anthony y Joe Russo, a partir de un guion escrito por Christopher Markus y Stephen McFeely, cuenta con un reparto coral que incluye a Robert Downey Jr., Chris Evans, Chris Hemsworth, Mark Ruffalo, Scarlett Johansson, Don Cheadle, Benedict Cumberbatch, Tom Holland, Chadwick Boseman, Paul Bettany, Elizabeth Olsen, Anthony Mackie, Sebastian Stan, Danai Gurira, Letitia Wright, Karen Gillan, Dave Bautista, Zoe Saldana, Vin Diesel, Bradley Cooper, Josh Brolin y Chris Pratt.",
+		"Estreno" : "2018",
+		"Poster" : "https:\/\/i.ibb.co\/3pY6Ts6\/19.jpg",
+		"Trailer" : "https:\/\/www.youtube.com\/embed\/6ZfuNTqbHE8"
+	},
+	{
+		"idPelicula" : "20",
+		"Titulo" : "Ant-Man and the Wasp",
+		"Descripcion" : "Ant-Man and the Wasp (titulada como Ant-Man y la Avispa en Espa\u00F1a) es una pel\u00EDcula de superh\u00E9roes estadounidense de 2018 basada en los personajes de Marvel Comics Ant-Man y The Wasp. Producida por Marvel Studios y distribuida por Walt Disney Studios Motion Pictures, es la secuela de Ant-Man, y la vig\u00E9sima pel\u00EDcula del Universo Cinematogr\u00E1fico de Marvel (MCU). La pel\u00EDcula est\u00E1 dirigida por Peyton Reed, quien tambi\u00E9n dirigi\u00F3 la primera parte, con un guion escrito por Chris McKenna, Erik Sommers, Andrew Barrer y Gabriel Ferrari. El largometraje est\u00E1 protagonizado por Paul Rudd, Evangeline Lilly, Hannah John-Kamen, Walton Goggins, Michael Pe\u00F1a, Abby Ryder Fortson, Randall Park, Michelle Pfeiffer, Laurence Fishburne y Michael Douglas.",
+		"Estreno" : "2018",
+		"Poster" : "https:\/\/i.ibb.co\/72YhkLQ\/20.jpg",
+		"Trailer" : "https:\/\/www.youtube.com\/embed\/8_rTIAOohas"
+	},
+	{
+		"idPelicula" : "21",
+		"Titulo" : "Captain Marvel",
+		"Descripcion" : "Captain Marvel es una película estadounidense de superhéroes basada en el personaje de Carol Danvers / Capitana Marvel. Producida por Marvel Studios y distribuida por Walt Disney Studios Motion Pictures, es la vigesimoprimera película del Universo cinematográfico de Marvel (MCU, por sus siglas en inglés). La cinta está escrita y dirigida por Anna Boden y Ryan Fleck, mientras que Meg LeFauve, Nicole Perlman, Geneva Robertson-Dworet, Liz Flahive y Carly Mensch también contribuyeron al guion. Brie Larson protagoniza en el papel titular, junto a Jude Law, Ben Mendelsohn, Lashana Lynch, Gemma Chan, Lee Pace, Clark Gregg, Annette Bening y Samuel L. Jackson.",
+		"Estreno" : "2019",
+		"Poster" : "https:\/\/i.ibb.co\/N289w4f\/21.jpg",
+		"Trailer" : "https:\/\/www.youtube.com\/embed\/Z1BCujX3pw8"
+	}
+]
